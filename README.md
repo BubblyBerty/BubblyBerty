@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning to develop my coding skills by producing my own website jammed with my passions and interests.
 - 💞️ I’m not really looking to collaborate on anything at the moment until I can secure employment.
 - 📫 How to reach me - gath_music@yahoo.co.uk
-- ⚡ Fun fact: Check out my ongoing webite at bibbadbob.co.uk/gath_Home.html/
+- ⚡ Fun fact: Check out my ongoing webite at bigbadbob.co.uk/gath_Home.html
+- 🌱 Main Branch: Practice1.
 
 <!---
 BubblyBerty/BubblyBerty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
